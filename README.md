@@ -1,2 +1,2 @@
-# FreeEmail
-:pencil:Free Open-Source Mini Email Client
+# EmailClientApp
+Email Client App using App.js
