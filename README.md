@@ -21,7 +21,7 @@ http://freeemail.altervista.org/
 	</div>
    <pre>
    
-<!DOCTYPE html>
+"<!DOCTYPE html>
 <html>
   <head>
     <title>Free Email Sender</title>
@@ -268,6 +268,6 @@ http://freeemail.altervista.org/
       }
     </script>
   </body>
-</html>
+</html>"
 </p>
 </pre>
