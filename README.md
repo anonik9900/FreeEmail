@@ -1,2 +1,2 @@
 # FreeEmail
-:mail:Free Open-Source Mini Email Client
+:pencil:Free Open-Source Mini Email Client
