@@ -1,2 +1,3 @@
-# EmailClientApp
-Email Client App using App.js
+# :pencil: Free Open-Source Mini Email Client
+
+http://freeemail.altervista.org/
