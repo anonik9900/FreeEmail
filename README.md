@@ -4,5 +4,6 @@ http://freeemail.altervista.org/
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-
+<div align="center">
 ![](http://freeemail.altervista.org/logo.png)
+</div>
