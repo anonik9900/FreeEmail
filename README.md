@@ -18,6 +18,7 @@ http://freeemail.altervista.org/
   How to use in your 2nd Website page ? 
   Use this code<br>
    <h2>HTML Code</h2>
+	</div>
    <pre>
    
 <!DOCTYPE html>
@@ -268,4 +269,5 @@ http://freeemail.altervista.org/
     </script>
   </body>
 </html>
+</p>
 </pre>
