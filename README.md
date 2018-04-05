@@ -5,4 +5,4 @@ http://freeemail.altervista.org/
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
-![](http://dizionariooffline.altervista.org/image/Immagine2.png)
+![](http://freeemail.altervista.org/logo.png)
